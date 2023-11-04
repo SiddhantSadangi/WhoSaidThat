@@ -10,7 +10,7 @@ import streamlit.components.v1 as components
 __version__ = "0.1.0"
 
 st.set_page_config(
-    page_title="Who said that?",
+    page_title="Who Said That?",
     page_icon="🤔",
     menu_items={
         "About": f"Who said that? 🤔 v{__version__}  "
