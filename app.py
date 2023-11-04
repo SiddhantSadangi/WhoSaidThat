@@ -1,5 +1,3 @@
-# ref: https://github.com/lukePeavey/quotable?tab=readme-ov-file#get-random-quotes
-
 import random
 from typing import List
 
@@ -13,14 +11,14 @@ st.set_page_config(
     page_title="Who Said That?",
     page_icon="🤔",
     menu_items={
-        "About": f"Who said that? 🤔 v{__version__}  "
+        "About": f"🤔 Who Said That? v{__version__}  "
         f"\nApp contact: [Siddhant Sadangi](mailto:siddhant.sadangi@gmail.com)",
         "Report a Bug": "https://github.com/SiddhantSadangi/WhoSaidThat/issues/new",
         "Get help": None,
     },
 )
 
-st.header("🤔 Who said that?", divider="rainbow")
+st.header("🤔 Who Said That?", divider="rainbow")
 st.caption(
     """Do you love quotes? Do you enjoy learning from the wisdom of others? Do you think you can recognize the authors of famous quotes?  
     If you answered yes to any of these questions, then this is the app for you!"""
