@@ -2,7 +2,7 @@
 
 Welcome to **Who Said That?**, a fun and educational game for all quote enthusiasts! This game challenges your knowledge of famous quotes and their authors. Can you guess who said what?
 
-**Who Said That?** is a <a href="https://www.streamlit.io" target="_blank">Streamlit</a> application that presents you with a famous quote and four potential authors. Your task is to identify the correct author. 
+**Who Said That?** is a <a href="https://www.streamlit.io" target="_blank">Streamlit</a> application that presents you with a famous quote and a choice of potential authors. Your task is to identify the correct author. 
 
 <p><a target="_blank" href="https://whosaidthat.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a></p>
 
